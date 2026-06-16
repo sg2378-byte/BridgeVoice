@@ -1,6 +1,7 @@
 # BridgeVoice Mobile (Expo)
 # BUILT AT GREYHACKS - Rutgers Hackathon
 Group members: Sahasra B., Purvi B., Harini T., Sanjana G.
+We all worked on two computers for VS Code because we were having trouble getting access to commit, push and pull so most of the commits were made by Purvi or Sahasra. 
 This is a fully functional mobile client for BridgeVoice.
 
 ## 1) Configure backend URLs for your phone
