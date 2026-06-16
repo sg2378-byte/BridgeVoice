@@ -1,5 +1,6 @@
 # BridgeVoice Mobile (Expo)
-
+# BUILT AT GREYHACKS - Rutgers Hackathon
+Group members: Sahasra B., Purvi B., Harini T., Sanjana G.
 This is a fully functional mobile client for BridgeVoice.
 
 ## 1) Configure backend URLs for your phone
